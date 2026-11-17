@@ -17,8 +17,10 @@ No install, no build, no test runner yet.
 
 ## Deploy
 
-GitHub Pages, served from the repository root on `master`.
-Live at https://emsignailgnehs.github.io/profile_page
+GitHub Pages, deployed by `.github/workflows/deploy.yml` on every push to `master`.
+Live at https://sheng.phd. The custom domain is set in the repo's Pages settings, not a `CNAME`
+file (Actions deploys ignore it). shenganigan.com forwards here from GoDaddy. Why: the home repo's
+`docs/adr/0001-site-domains.md`.
 
 ## Conventions
 

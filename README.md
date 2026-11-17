@@ -7,7 +7,7 @@ small on purpose: small enough that every piece of infrastructure around it can 
 end and understood completely. That infrastructure is the point of this repository as much as
 the page is.
 
-**Live site:** https://emsignailgnehs.github.io/profile_page
+**Live site:** https://sheng.phd
 
 ## Why the tooling looks oversized
 
